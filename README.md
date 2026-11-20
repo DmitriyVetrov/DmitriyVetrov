@@ -2,41 +2,51 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:D97757&height=190&section=header&text=Dmytro%20Vietrov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=.NET%20Backend%20%C2%B7%20Cloud%20%C2%B7%20AI%20Agents&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:D97757&height=190&section=header&text=Dmytro%20Vietrov&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://github.com/DmitriyVetrov">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=D97757&center=true&vCenter=true&width=620&lines=C%23+%2F+.NET+backend+engineer+%E2%80%94+8%2B+years;Monolith+%E2%86%92+services%2C+events%2C+outbox%2C+gRPC;Kubernetes+%C2%B7+Terraform+%C2%B7+GitHub+Actions;Building+LLM+agents+with+Claude+%26+LangGraph" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=D97757&center=true&vCenter=true&width=620&lines=C%23+%E2%80%A2+.NET+%E2%80%A2+Python+%E2%80%A2+SQL+%E2%80%A2+Azure+%E2%80%A2+K8s+%E2%80%A2+AI+Agents;8%2B+years+of+backend+services%2C+REST+APIs+and+cloud;LLM+apps+and+agents+since+2025;Open+to+full-time%2C+contract%2C+remote%2Fhybrid" alt="Typing SVG"/>
 </a>
 
 <p>
   <a href="https://linkedin.com/in/dmvietrov"><img src="https://img.shields.io/badge/LinkedIn-dmvietrov-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Based%20in-Spain-C60B1E?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Open%20to-full--time%20%C2%B7%20contract%20%C2%B7%20remote-2EA44F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Spain-Permanent%20Resident-C60B1E?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Availability-immediate-2EA44F?style=flat-square"/>
 </p>
 
 </div>
 
 ```text
 $ whoami
-  Software Engineer · 8+ years · C# / .NET · Azure · SQL · Kubernetes · AI agents
+  Dmytro Vietrov | Software Engineer
+  C# • .NET • Python • SQL • Azure • K8s • AI Agents
 
-$ cat now.txt
-  ▸ Splitting a legacy ASP.NET help-desk monolith into .NET 8 services (Cayzu)
-  ▸ Building Resumiser — a spec-first resume builder with Claude Code
-  ▸ Running a multi-agent job-search system on Claude Code every day
+$ cat focus.txt
+  ▸ Backend services & REST APIs on C# / .NET / ASP.NET Core, SQL, Azure
+  ▸ LLM apps & agents: Claude API, Claude Code multi-agent workflows,
+    LangGraph / LangChain RAG, structured output, speech-to-text
+  ▸ Taking over legacy .NET systems, stalled backlogs, AI features
+    that need a solid backend
+
+$ cat availability.txt
+  ▸ Immediate · full-time, contract, remote/hybrid · open to relocation
+  ▸ Dev + DevOps, AI/LLM features, test automation, L2/L3 support
 
 $ cat background.txt
-  ▸ Cloud DevOps @ SAP — self-service K8s clusters, Helm, Terraform + Vault, Go tests
-  ▸ .NET full-stack @ CRIF — credit reports, RabbitMQ async PDF generation
-  ▸ MSc, Intelligent Decision-Making Systems — perceptrons before they were cool
+  ▸ 2025–now   Software Engineer        Cayzu (CA, remote)  monolith → .NET 8 services
+  ▸ 2023–2025  Cloud DevOps Engineer    SAP (Bratislava)    K8s, Helm, Terraform, Vault
+  ▸ 2021–2022  .NET Software Developer  Cayzu (CA, remote)  SaaS, 70+ integrations
+  ▸ 2017–2021  .NET Full-Stack Engineer CRIF (Bratislava)   credit reports, RabbitMQ
+  ▸ 2014–2016  .NET Full-Stack Engineer StartMobile (CA)    mobile APIs, Azure
 ```
 
 ## About
 
-I build backend services and APIs on .NET, and I like taking over the hard parts: legacy
-systems, stalled backlogs, and monoliths that need to become services without stopping
-production. Since 2025 I also build LLM applications and agents — Claude API, Claude Code
-multi-agent workflows, LangGraph pipelines with RAG, structured output and speech-to-text.
+Software Engineer with 8+ years of experience building backend services, REST APIs and
+cloud-based solutions: C#, .NET, ASP.NET, Azure, SQL, microservices and integrations, with
+active use of AI tools to speed up development. Since 2025 I build LLM-based applications and
+agents — Claude API and Claude Code multi-agent workflows, LangGraph / LangChain pipelines with
+RAG, structured output and speech-to-text. Hands-on with Python, Go, Kubernetes, Docker, Terraform.
 
 ## 🚀 Selected projects
 
