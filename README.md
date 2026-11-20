@@ -145,6 +145,8 @@ feed (Dijkstra over a time-expanded graph), with a waiting list that notifies wh
 
 🗣 English B2 · Spanish A2 · Slovak · Ukrainian & Russian native
 
+<img src="https://komarev.com/ghpvc/?username=DmitriyVetrov&label=Profile%20views&color=D97757&style=for-the-badge" alt="Profile views" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:512BD4&height=100&section=footer" width="100%"/>
 
 </div>
